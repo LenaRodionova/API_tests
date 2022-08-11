@@ -1,4 +1,4 @@
 pivenv
 .idea/
 .DS_Storevenv/
-
+.pytest_cache
