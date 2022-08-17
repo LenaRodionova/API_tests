@@ -1,7 +1,7 @@
 import pytest
 
+from conftest import RestfulBookerService
 from helper_function import decorator_to_create_booking
-from restful_booker_service import RestfulBookerService
 
 
 @pytest.mark.smoke

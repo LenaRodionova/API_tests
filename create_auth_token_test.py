@@ -1,5 +1,6 @@
 import pytest
-from restful_booker_service import RestfulBookerService
+
+from conftest import RestfulBookerService
 
 
 class TestCreateAuthToken:
